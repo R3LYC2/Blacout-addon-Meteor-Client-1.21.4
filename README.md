@@ -1,5 +1,5 @@
 # Blacout-addon-Meteor-Client-1.21.4
-MADE BY R3LYC2
+MADE BY Main2packets
 
 Discord: R3LYC_
 
